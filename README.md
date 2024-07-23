@@ -1,0 +1,2 @@
+# JavascriptArithmetic
+用Javascript语言练习算法
